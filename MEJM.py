@@ -297,7 +297,7 @@ for i in range(len(End)):
         label_jmpfs[i] = 0
         
 for i in range(len(End)):
-    if latent[i] >= -1.8:
+    if latent[i] >= -0.0:
         label_jmrr[i] = 1
     else:
         label_jmrr[i] = 0
