@@ -14,4 +14,4 @@ It is a generalized framework for accurately determining the positivity threshol
 The upper and lower bounds of the particle swarm optimization algorithm need to be adjusted according to the input data characteristics.  
 
 **NOTE2:**
-The calculation criteria for the composite prognosis indexes can be adjusted according to the input data characteristics.
+The calculation criteria for the composite prognosis indexes can be adjusted according to the clinical characteristics of the cancer species to be analyzed.
