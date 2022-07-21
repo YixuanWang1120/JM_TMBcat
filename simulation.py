@@ -35,8 +35,8 @@ theta1_simu = 1
 theta2_simu = 1
 theta3_simu = 1
 ro1_simu = 1
-ro2_simu = -0.5
-ro3_simu = -0.5
+ro2_simu = 1
+ro3_simu = 1
 cov_simu = np.array([[theta1_simu,ro1_simu*math.sqrt(theta1_simu*theta2_simu),
                  ro2_simu*math.sqrt(theta1_simu*theta3_simu)],
                [ro1_simu*math.sqrt(theta1_simu*theta2_simu),theta2_simu,ro3_simu*math.sqrt(theta2_simu*theta3_simu)],
