@@ -10,8 +10,5 @@ It is a generalized framework for accurately determining the positivity threshol
 2. The optimal TMB thresholds for the dichotomy.  
 3. The optimal TMB thresholds for the trichotomy.
 
-**NOTE1:**
-The upper & lower bounds and the dimension of particle swarm optimization step need to be adjusted according to the range of values of the actual input data. 
-
-**NOTE2:**
+**NOTE:**
 The calculation criteria for the composite prognosis indexes can be adjusted according to the clinical characteristics of the cancer species to be analyzed.
